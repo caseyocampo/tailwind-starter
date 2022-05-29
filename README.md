@@ -1,10 +1,15 @@
-# Get Started
+# Getting Started
 
 Prerequisites: 
 
 - GIT
 - Node.js: https://nodejs.org/en/
-- PostCSS VS Code extension
+
+*VS Code extension*
+
+- PostCSS Language Support
+- Live Server 
+- Tailwind CSS IntelliSense
 
 ## Run the local development environment.
 
