@@ -2,30 +2,31 @@
 
 Prerequisites: 
 
-- Node.js
+- GIT
+- Node.js: https://nodejs.org/en/
 - PostCSS VS Code extension
 
-Run the local development environment.
+## Run the local development environment.
 
-*Build a project's package.json file:*
+### Build a project's package.json file
 
 - `npm init -y`
 
 *the -y flag means saying "yes" to all options.
 
-*Build node_modules:*
+### Build node_modules:
 
 - `npm i -D tailwindcss`
 
-*Create a tailwind.config file:*
+### Create a tailwind.config file:
 
 `npx tailwindcss init`
 
-*In the `tailwind.config.js` file, add the following string to the content array:*
+### In the `tailwind.config.js` file, add the following string to the content array:
 
 `content: ["./*.html"]`
 
-*Create an `input.css` file in the root directory.*
+### Create an `input.css` file in the root directory.
 
 *Then, add the following to the scripts key:*
 
