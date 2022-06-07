@@ -13,7 +13,7 @@ npm install
 Run Tailwind CLI in watch mode
 
 ```
-npm run dev
+npm run watch
 ```
 
 You can use tailwind classes in any .html files in the root directory
